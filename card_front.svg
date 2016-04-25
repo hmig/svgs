@@ -1,4 +1,4 @@
-<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.42 86.45">
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 50.42 87.47" aria-hidden="true">
   <defs>
     <style>
       .cls-1 {
@@ -18,7 +18,7 @@
   </defs>
   <title>card_front</title>
   <g>
-    <rect class="cls-1" x="2" y="21.82" width="46.42" height="62.63"/>
-    <path class="cls-2" d="M2.88,22.17L33,3.17c4,4.62,13,20,13,20" transform="translate(0 -0.56)"/>
+    <rect class="cls-1" x="2" y="22.84" width="46.42" height="62.63"/>
+    <path class="cls-2" d="M3.88,22.17L34,3.17c0,4.62,9,20,9,20" transform="translate(0 0.46)"/>
   </g>
 </svg>
