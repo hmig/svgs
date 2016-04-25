@@ -1,8 +1,8 @@
 
 <svg id="screen-reader-graph" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 325" preserveAspectRatio="xMinYMin slice" role="group"
-     aria-labelledby="graph-title" aria-describedby="graph-desc">
-  <text id="graph-title" class="title" transform="translate(10 28.77)">Commonly Used Screen Readers</text>
-  <text id="graph-desc" class="desc" transform="translate(10 317.96)">Data & original image from <a xlink:href="http://webaim.org/projects/screenreadersurvey6/#used">WebAIM's Screen Reader User Survey #6 Results</a></text>
+     aria-labelledby="graph-title-id" aria-describedby="graph-desc-id">
+  <text id="graph-title-id" class="title" transform="translate(10 28.77)">Commonly Used Screen Readers</text>
+  <text id="graph-desc-id" class="desc" transform="translate(10 317.96)">Data & original image from <a xlink:href="http://webaim.org/projects/screenreadersurvey6/#used">WebAIM's Screen Reader User Survey #6 Results</a></text>
     <g id="bars" role="list" aria-label="bar graph" transform="translate(0,58)">
     <g id="Jaws" role="listitem">
       <rect role="presentation" id="bar" class="cls-1" x="47.95" y="80.54" width="25.54" height="148.61" transform="translate(-7.92 -9.3) rotate(-0.08)"/>
